@@ -11,6 +11,31 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
+    "/LiveCodingReactInterview/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/LiveCodingReactInterview/page.js"
+    ],
+    "/LiveCodingReactInterview/Counter/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/LiveCodingReactInterview/Counter/page.js"
+    ],
+    "/LiveCodingReactInterview/ToggleSwitch/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/LiveCodingReactInterview/ToggleSwitch/page.js"
+    ],
+    "/LiveCodingReactInterview/FetchDataFromAnAPI/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/LiveCodingReactInterview/FetchDataFromAnAPI/page.js"
+    ],
+    "/LiveCodingReactInterview/CreateASearchBar/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/LiveCodingReactInterview/CreateASearchBar/page.js"
+    ],
     "/_not-found/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",

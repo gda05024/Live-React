@@ -1,10 +1,16 @@
-import Image from 'next/image';
 import React from "react";
+import Link from 'next/link';
 
 export default function Home() {
   return (
-    <div>
-        안녕하세요
-    </div>
+    <ul>
+        <li>
+            <Link href="/LiveCodingReactInterview">Live Coding React Interview</Link>
+        </li>
+        <li>
+            <Link href="/ThirtyReactJSCodingInterviewQuestionsForDevelopers">30 ReactJS Coding Interview Questions for Developers
+            </Link>
+        </li>
+    </ul>
   );
 }
